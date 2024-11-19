@@ -4,7 +4,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.header('Pattanapong')
+st.header('Pattanapong Sukhamsaen')
+st.subheader('Information Technology')
 st.image("./img/1.jpg")
 col1, col2, col3 = st.columns(3)
 
