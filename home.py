@@ -1,5 +1,5 @@
 import streamlit as st 
-import pandas as pandas
+import pandas as pd
 
 st.title("Website Deverloper Profesional Python")
 st.header("Website Deverloper Profesional Python")
