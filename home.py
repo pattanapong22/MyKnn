@@ -8,5 +8,5 @@ st.image('./img/1.jpg')
 st.subheader("Pattanapong Sukhamsaen")
 
 dt=pd.read_csv('./data/iris.csv')
-st.header()
+st.header("ข้อมูลดอกไม้")
 st.write(dt.head(10))
